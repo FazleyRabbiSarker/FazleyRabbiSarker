@@ -1,5 +1,5 @@
-# Hi There 👋
-###### Hei Frs Rabbi 👋
+# Hei! I'M Fazley RABBI 👋
+###### Hei There 👋
 
 <!--
 **FazleyRabbiSarker/FazleyRabbiSarker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

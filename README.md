@@ -1,4 +1,4 @@
-# Hei ! I'M Fazley RABBI 👋
+# Hei ! I'm Fazley Rabbi 👋
 ###### Hei There 👋
 
 <!--

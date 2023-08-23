@@ -1,22 +1,22 @@
 # Hei ! 👋
 ###### Hei ! There 👋
 
-<h1 align="center">Hey Everyone 👋, I'm Aditya Jaiswal</h1>
+<h1 align="center">Hei !  Everyone 👋 I'm fazley Rabbi Sarker </h1>
 <div align="center"> <img src="https://scontent.fdac14-1.fna.fbcdn.net/v/t39.30808-6/242910040_2965074623760953_2954472881412349240_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=19026a&_nc_eui2=AeFJGTIp55c5_n5T67sSFZQHLagoa_bx_WMtqChr9vH9Y33jRkdqTAagbJcog-8EUDgouwNYwN56fDiGZ9w2_mKb&_nc_ohc=qyEM1fUQNS4AX_fglqh&_nc_ht=scontent.fdac14-1.fna&oh=00_AfADbxfW8E2es-QT91eap2WUCm2H9jb8rxGBK8SwbNiTxw&oe=64EA90C6"> </div>
-<h3 align="center">A passionate DevOps Engineer From India. I work in Corporate IT Sector and in my free time I make YouTube videos at https://www.youtube.com/@devopsshack</h3>
+<h3 align="center">A passionate Software Engineer From Bangladesh . I previously worked as a "UI / UX" Designer and I have worked on "Software Quality Assurance" and I have experience about it.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaiswaladi246&label=Profile%20views&color=0e75b6&style=flat" alt="jaiswaladi246" /> </p>
 
-- 🔭 I’m currently working on [30-Days-Of-DevOps](https://github.com/jaiswaladi246/30-Days-Of-DevOps)
+- 🔭 I’m currently working on : Etech Solution Ltd.
 
-- 🌱 I’m currently learning **DevSecOps & Cloud Devops**
+- 🌱 I’m currently learning ** Vue.js , Laravel Framework & Software Automations Tools **
 
-- 👨‍💻 All of my projects are available at [https://github.com/jaiswaladi246](https://github.com/jaiswaladi246)
+- 👨‍💻 All of my projects are available at [https://github.com/FazleyRabbiSarker](https://github.com/FazleyRabbiSarker)
 
-- 💬 Ask me about **DevOps & Cloud DevOps**
+- 💬 Ask me about ** Development , Software Tools & Automations **
 
-- 📫 How to reach me **masteraadi246@gmail.com**
+- 📫 How to reach me **sarkerrabbi250@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>

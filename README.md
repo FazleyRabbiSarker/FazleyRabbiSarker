@@ -2,7 +2,7 @@
 ###### Hei ! There 👋
 
 <h1 align="center">Hey Everyone 👋, I'm Aditya Jaiswal</h1>
-<div align="center"> <img src="https://raw.githubusercontent.com/jaiswaladi246/jaiswaladi246/main/banner2.png"> </div>
+<div align="center"> <img src="https://scontent.fdac14-1.fna.fbcdn.net/v/t39.30808-6/242910040_2965074623760953_2954472881412349240_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=19026a&_nc_eui2=AeFJGTIp55c5_n5T67sSFZQHLagoa_bx_WMtqChr9vH9Y33jRkdqTAagbJcog-8EUDgouwNYwN56fDiGZ9w2_mKb&_nc_ohc=qyEM1fUQNS4AX_fglqh&_nc_ht=scontent.fdac14-1.fna&oh=00_AfADbxfW8E2es-QT91eap2WUCm2H9jb8rxGBK8SwbNiTxw&oe=64EA90C6"> </div>
 <h3 align="center">A passionate DevOps Engineer From India. I work in Corporate IT Sector and in my free time I make YouTube videos at https://www.youtube.com/@devopsshack</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 

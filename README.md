@@ -1,4 +1,4 @@
-# Hei! I'M Fazley RABBI 👋
+# Hei ! I'M Fazley RABBI 👋
 ###### Hei There 👋
 
 <!--
@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning : Testing Automation Tools & Laravel Framework
 - 📫 How to reach me: sarkerrabbi250@gmail.com
 - 😄 Pronouns: HE / HIS
-- ⚡ Fun fact: CRICKET & FOOTBALL...
+- ⚡ Fun fact: CRICKET & FOOTBALL
 -->

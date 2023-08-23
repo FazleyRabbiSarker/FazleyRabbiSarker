@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on : Etech Solution Ltd.
 
-- 🌱 I’m currently learning ** Vue.js , Laravel Framework & Software Automations Tools **
+- 🌱 I’m currently learning * Vue.js , Laravel Framework & Software Automations Tools *
 
 - 👨‍💻 All of my projects are available at [https://github.com/FazleyRabbiSarker](https://github.com/FazleyRabbiSarker)
 

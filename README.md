@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href ="https://www.facebook.com/profile.php?id=100007753322196""target="blank"><img align="center" src="https://www.google.com/search?q=facebook+logo&oq=facebook+logo&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIMCAEQABgUGIcCGIAEMg0IAhAAGIMBGLEDGIAEMgcIAxAAGIAEMgwIBBAAGBQYhwIYgAQyDQgFEAAYgwEYsQMYgAQyBwgGEAAYgAQyBwgHEAAYgAQyBwgIEAAYgAQyBwgJEAAYgATSAQkxMTE1OWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8#vhid=ZxSlu-sJBSMthM&vssid=l" height="30" width="40" /></a>
+<a href ="https://www.facebook.com/profile.php?id=100007753322196" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Fazley Rabbi" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/fazleyrabbisarker/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rabbi" height="30" width="40" /></a>
 <a href="https://www.instagram.com/frs_rabbi248022/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="frs " height="30" width="40" /></a>
 

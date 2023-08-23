@@ -1,4 +1,4 @@
-# Hei ! 👋
+# Hei ! Fazley Rabbi 👋
 ###### Hei ! There 👋
 
 <h1 align="center">Hei !  Everyone 👋 I'm Fazley Rabbi Sarker </h1>
